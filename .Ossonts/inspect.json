@@ -1,0 +1,478 @@
+{
+	"gitinspector": {
+		"version": "0.5.0dev",
+		"repository": "cw-code-t12",
+		"report_date": "2022/05/11",
+		"changes": {
+			"message": "The following historical commit information, by author, was found",
+			"authors": [
+			{
+				"name": "Steven Ossont",
+				"email": "472243+ossonts@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/088bff13283d3ed5ffd807e92636a3af?default=identicon",
+				"commits": 1,
+				"insertions": 14468,
+				"deletions": 0,
+				"percentage_of_changes": 28.61
+			},{
+				"name": "UP2021407",
+				"email": "58916095+UP2021407@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/e71bce80f0070fac8c0d2e70b236ee0a?default=identicon",
+				"commits": 2,
+				"insertions": 10,
+				"deletions": 3,
+				"percentage_of_changes": 0.03
+			},{
+				"name": "UP202254",
+				"email": "91731365+UP2012254@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+				"commits": 15,
+				"insertions": 126,
+				"deletions": 66,
+				"percentage_of_changes": 0.38
+			},{
+				"name": "UP2041346",
+				"email": "91888333+UP2041346@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+				"commits": 36,
+				"insertions": 2705,
+				"deletions": 5104,
+				"percentage_of_changes": 15.44
+			},{
+				"name": "UP768646",
+				"email": "51681429+UP768646@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+				"commits": 22,
+				"insertions": 22638,
+				"deletions": 5057,
+				"percentage_of_changes": 54.76
+			},{
+				"name": "github-classroom[bot]",
+				"email": "66690702+github-classroom[bot]@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/b731ca65f2ea1d135cbc4e43be47398f?default=identicon",
+				"commits": 1,
+				"insertions": 395,
+				"deletions": 0,
+				"percentage_of_changes": 0.78
+			}]
+		},
+		"blame": {
+			"message": "Below are the number of rows from each author that have survived and are still intact in the current revision",
+			"authors": [
+			{
+				"name": "Steven Ossont",
+				"email": "472243+ossonts@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/088bff13283d3ed5ffd807e92636a3af?default=identicon",
+				"rows": 14468,
+				"stability": 100.0,
+				"age": 0.0,
+				"percentage_in_comments": 0.00
+			},{
+				"name": "UP2021407",
+				"email": "58916095+UP2021407@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/e71bce80f0070fac8c0d2e70b236ee0a?default=identicon",
+				"rows": 2,
+				"stability": 20.0,
+				"age": 0.0,
+				"percentage_in_comments": 0.00
+			},{
+				"name": "UP202254",
+				"email": "91731365+UP2012254@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+				"rows": 54,
+				"stability": 42.9,
+				"age": 6.7,
+				"percentage_in_comments": 0.00
+			},{
+				"name": "UP2041346",
+				"email": "91888333+UP2041346@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+				"rows": 2057,
+				"stability": 76.0,
+				"age": 14.4,
+				"percentage_in_comments": 1.22
+			},{
+				"name": "UP768646",
+				"email": "51681429+UP768646@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+				"rows": 13296,
+				"stability": 58.7,
+				"age": 8.4,
+				"percentage_in_comments": 0.01
+			},{
+				"name": "github-classroom[bot]",
+				"email": "66690702+github-classroom[bot]@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/b731ca65f2ea1d135cbc4e43be47398f?default=identicon",
+				"rows": 65,
+				"stability": 16.5,
+				"age": 0.0,
+				"percentage_in_comments": 0.00
+			}]
+		},
+		"timeline": {
+			"message": "The following history timeline has been gathered from the repository",
+			"period_length": "week",
+			"periods": [
+			{
+				"name": "2021W43",
+				"authors": [
+				{
+					"name": "UP2021407",
+					"email": "58916095+UP2021407@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/e71bce80f0070fac8c0d2e70b236ee0a?default=identicon",
+					"work": "."
+				},{
+					"name": "github-classroom[bot]",
+					"email": "66690702+github-classroom[bot]@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/b731ca65f2ea1d135cbc4e43be47398f?default=identicon",
+					"work": "++++++++++++++++++++++++"
+				}],
+				"modified_rows": 401
+			},{
+				"name": "2021W44",
+				"authors": [
+				{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "--------++++++++++++++++"
+				}],
+				"modified_rows": 3
+			},{
+				"name": "2021W47",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "++++++++++++++++++++++++"
+				}],
+				"modified_rows": 68
+			},{
+				"name": "2021W51",
+				"authors": [
+				{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "++++++++++++++++++++++++"
+				}],
+				"modified_rows": 9665
+			},{
+				"name": "2021W52",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "---------++++++++++++++"
+				}],
+				"modified_rows": 421
+			},{
+				"name": "2022W01",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "---++++++++++++++++++++"
+				}],
+				"modified_rows": 1486
+			},{
+				"name": "2022W02",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "++++"
+				},{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "--------+++++++++++++++"
+				}],
+				"modified_rows": 360
+			},{
+				"name": "2022W08",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "-----------++++++++++++"
+				},{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "."
+				}],
+				"modified_rows": 196
+			},{
+				"name": "2022W09",
+				"authors": [
+				{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "---++++++++++++++++++++"
+				}],
+				"modified_rows": 7
+			},{
+				"name": "2022W10",
+				"authors": [
+				{
+					"name": "UP2021407",
+					"email": "58916095+UP2021407@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/e71bce80f0070fac8c0d2e70b236ee0a?default=identicon",
+					"work": "-++"
+				},{
+					"name": "UP202254",
+					"email": "91731365+UP2012254@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+					"work": "--------+++++++++++++++"
+				}],
+				"modified_rows": 44
+			},{
+				"name": "2022W11",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "---------------------++"
+				},{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "."
+				}],
+				"modified_rows": 5122
+			},{
+				"name": "2022W12",
+				"authors": [
+				{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "----------------+++++++"
+				}],
+				"modified_rows": 2072
+			},{
+				"name": "2022W13",
+				"authors": [
+				{
+					"name": "UP202254",
+					"email": "91731365+UP2012254@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+					"work": "++"
+				},{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "-----------+++++++++++++"
+				}],
+				"modified_rows": 381
+			},{
+				"name": "2022W14",
+				"authors": [
+				{
+					"name": "UP202254",
+					"email": "91731365+UP2012254@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+					"work": "-------+++++++++++++++++"
+				},{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "---++++++++"
+				}],
+				"modified_rows": 137
+			},{
+				"name": "2022W15",
+				"authors": [
+				{
+					"name": "UP202254",
+					"email": "91731365+UP2012254@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+					"work": "."
+				},{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "."
+				},{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "-----++++++++++++++++++"
+				}],
+				"modified_rows": 15660
+			},{
+				"name": "2022W16",
+				"authors": [
+				{
+					"name": "UP2041346",
+					"email": "91888333+UP2041346@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+					"work": "----+++++"
+				},{
+					"name": "UP768646",
+					"email": "51681429+UP768646@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+					"work": "-------------+++++++++++"
+				}],
+				"modified_rows": 81
+			},{
+				"name": "2022W19",
+				"authors": [
+				{
+					"name": "Steven Ossont",
+					"email": "472243+ossonts@users.noreply.github.com",
+					"gravatar": "https://www.gravatar.com/avatar/088bff13283d3ed5ffd807e92636a3af?default=identicon",
+					"work": "++++++++++++++++++++++++"
+				}],
+				"modified_rows": 14468
+			}]
+		},
+		"metrics": {
+			"message": "No metrics violations were found in the repository"
+		},
+		"responsibilities": {
+			"message": "The following responsibilities, by author, were found in the current revision of the repository (comments are excluded from the line count, if possible)",
+			"authors": [
+			{
+				"name": "Steven Ossont",
+				"email": "472243+ossonts@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/088bff13283d3ed5ffd807e92636a3af?default=identicon",
+				"files": [
+				{
+					"name": ".Ossonts/inspect.html",
+					"rows": 14028
+				},{
+					"name": ".Ossonts/inspect.json",
+					"rows": 440
+				}]
+			},{
+				"name": "UP2021407",
+				"email": "58916095+UP2021407@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/e71bce80f0070fac8c0d2e70b236ee0a?default=identicon",
+				"files": [
+				{
+					"name": "README.md",
+					"rows": 2
+				}]
+			},{
+				"name": "UP202254",
+				"email": "91731365+UP2012254@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/caa8eb149e9e90eb3d43fcaa658053f2?default=identicon",
+				"files": [
+				{
+					"name": "components/Login.js",
+					"rows": 15
+				},{
+					"name": "components/Brand.js",
+					"rows": 12
+				},{
+					"name": "components/About.js",
+					"rows": 12
+				},{
+					"name": "pages/login.js",
+					"rows": 10
+				},{
+					"name": "components/Navbar.js",
+					"rows": 4
+				},{
+					"name": "pages/index.js",
+					"rows": 1
+				}]
+			},{
+				"name": "UP2041346",
+				"email": "91888333+UP2041346@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/8089f5ada4af75fbbb930acbfd72af51?default=identicon",
+				"files": [
+				{
+					"name": "package-lock.json",
+					"rows": 1475
+				},{
+					"name": "scraper/companyScraper.py",
+					"rows": 138
+				},{
+					"name": "scraper/test/test_class_scraper.py",
+					"rows": 57
+				},{
+					"name": "scraper/requirements.txt",
+					"rows": 53
+				},{
+					"name": "components/Brand.js",
+					"rows": 52
+				},{
+					"name": "util/mongodb.js",
+					"rows": 37
+				},{
+					"name": "pages/brand/[brandName].js",
+					"rows": 35
+				},{
+					"name": "pages/index.js",
+					"rows": 33
+				},{
+					"name": "components/Filter.js",
+					"rows": 25
+				},{
+					"name": "README.md",
+					"rows": 20
+				}]
+			},{
+				"name": "UP768646",
+				"email": "51681429+UP768646@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/1fe8112a2e854340124b7a55848f3596?default=identicon",
+				"files": [
+				{
+					"name": "package-lock.json",
+					"rows": 13119
+				},{
+					"name": "package.json",
+					"rows": 29
+				},{
+					"name": "README.md",
+					"rows": 28
+				},{
+					"name": "components/Brand.js",
+					"rows": 21
+				},{
+					"name": "pages/index.js",
+					"rows": 17
+				},{
+					"name": "styles/globals.css",
+					"rows": 16
+				},{
+					"name": "components/About.js",
+					"rows": 14
+				},{
+					"name": "pages/about.js",
+					"rows": 11
+				},{
+					"name": "pages/_app.js",
+					"rows": 8
+				},{
+					"name": "components/Card.js",
+					"rows": 7
+				}]
+			},{
+				"name": "github-classroom[bot]",
+				"email": "66690702+github-classroom[bot]@users.noreply.github.com",
+				"gravatar": "https://www.gravatar.com/avatar/b731ca65f2ea1d135cbc4e43be47398f?default=identicon",
+				"files": [
+				{
+					"name": "FolderStructure.md",
+					"rows": 65
+				}]
+			}]
+		},
+		"extensions": {
+			"message": "The extensions below were found in the repository history",
+			"used": [ "*", "MD", "css", "html", "js", "json", "md", "py", "svg", "txt", "yml" ],
+			"unused": [  ]
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+  "name": "sustainability-checker",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint --fix"
+  },
+  "dependencies": {
+    "mongodb": "^4.2.2",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "swr": "^1.1.2"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^12.1.1",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^7.32.0",
+    "eslint-config-portsoc": "^0.8.2",
+    "jest": "^27.5.1",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
+  },
+  "eslintConfig": {
+    "extends": [
+      "portsoc",
+      "plugin:@next/next/recommended"
+    ],
+    "root": true,
+    "env": {
+      "browser": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+  }
+  }
+}

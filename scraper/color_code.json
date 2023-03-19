@@ -1,0 +1,19 @@
+{
+    "No Poverty": "red",
+    "Zero Hunger": "yellow",
+    "Good Health": "green",
+    "Quality Education": "purple",
+    "Gender Equality":"#eb346e",
+    "Clean water and sanitation": "blue",
+    "Affordable and clean energy": "#89cf76",
+    "Decent work and economic growth": "#690422",
+    "Industry, innovation and infrastructure": "orange",
+    "Reduced inequalities": "#ff00ee",
+    "Sustainable cities and communities": "#2b3f45",
+    "Responsible consumption and production": "#f2d091",
+    "Climate action": "#9199f2",
+    "Life below water": "#26dbff",
+    "Life on Land": "#26ff2d",
+    "Peace justice and strong institutions": "#ff4e26",
+    "Partnerships for the goals": "#d7ff26"
+}
